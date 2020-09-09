@@ -1,5 +1,5 @@
 # Python-Program-to-check-Armstrong-Number 
-num = int(input("Enter a number: "))
+num = int(input("Enter a number: ")) 
 #length of the string  
 l= len(str(num))
 s = 0
