@@ -10,7 +10,7 @@ while t > 0:
     t=t//10
    
 if num == s:
-   print(num,"is an Armstrong number")
+   print(num,"is an Armstrong number") 
 else:
    print(num,"is not an Armstrong number")
   
