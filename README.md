@@ -1,4 +1,4 @@
-# Python-Program-to-check-Armstrong-Number 
+# Python-Program-to-check-Armstrong-Number  
 num = int(input("Enter a number: ")) 
 #length of the string  
 l= len(str(num))
