@@ -7,7 +7,7 @@ t = num
 while t > 0:
    d = t % 10
    s=s+(d**l)
-    t=t//10
+    t=t//10 
    
 if num == s:
    print(num,"is an Armstrong number") 
